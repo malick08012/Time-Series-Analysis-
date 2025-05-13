@@ -2,6 +2,7 @@
 This project focuses on analyzing and forecasting stock prices using time series analysis in Python. We take historical stock data and walk through a full pipeline to understand trends, uncover seasonal patterns, and build a model to predict future prices.
 
 🚀 What This Project Covers:
+
 📅 Data Preparation: Cleaned and formatted time-series data, setting the date as an index for proper analysis.
 
 🔍 Decomposition: Broke down the time series into trend, seasonality, and residual components to better understand stock behavior over time.

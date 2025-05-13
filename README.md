@@ -1,16 +1,29 @@
 # Time-Series-Analysis-
-This project aims to analyze and forecast future stock prices using time series analysis methods. The dataset provided contains historical stock prices, including daily information such as the opening, closing, highest, and lowest stock prices. The goal is to predict the future closing prices based on historical trends and patterns using various statistical techniques, with a focus on the ARIMA model.
-Objectives:
+This project focuses on analyzing and forecasting stock prices using time series analysis in Python. We take historical stock data and walk through a full pipeline to understand trends, uncover seasonal patterns, and build a model to predict future prices.
 
-Plot and decompose the time series data into trend, seasonality, and residual components.
+🚀 What This Project Covers:
+📅 Data Preparation: Cleaned and formatted time-series data, setting the date as an index for proper analysis.
 
-Implement moving average and exponential smoothing techniques to identify underlying trends.
+🔍 Decomposition: Broke down the time series into trend, seasonality, and residual components to better understand stock behavior over time.
 
-Build an ARIMA model to forecast future stock prices.
+📉 Smoothing Techniques: Implemented Moving Average and Exponential Smoothing methods to reduce noise and highlight long-term trends.
 
-Evaluate the model using performance metrics like RMSE and visualize the forecasts.
+📈 ARIMA Modeling: Built an ARIMA model (AutoRegressive Integrated Moving Average) to forecast future stock prices based on historical data.
 
-#Tools and Libraries Used:
+📏 Model Evaluation: Used Root Mean Squared Error (RMSE) to assess the model's prediction accuracy.
+
+📊 Visualization: Presented clear plots for data trends, decomposed components, and forecasted vs actual prices.
+
+🎯 Why This Project?
+
+Time series forecasting is a valuable skill in data science and finance. This project demonstrates a hands-on approach to:
+Preparing real-world time series data
+Applying classical forecasting methods
+Evaluating and visualizing prediction results
+It’s ideal for those interested in data analytics, financial modeling, or learning ARIMA-based forecasting from scratch.
+
+
+Tools and Libraries Used:
 
 Python, pandas, matplotlib, seaborn, statsmodels, sklearn
 

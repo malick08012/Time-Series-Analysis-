@@ -18,9 +18,13 @@ This project focuses on analyzing and forecasting stock prices using time series
 🎯 Why This Project?
 
 Time series forecasting is a valuable skill in data science and finance. This project demonstrates a hands-on approach to:
+
 Preparing real-world time series data
+
 Applying classical forecasting methods
+
 Evaluating and visualizing prediction results
+
 It’s ideal for those interested in data analytics, financial modeling, or learning ARIMA-based forecasting from scratch.
 
 
